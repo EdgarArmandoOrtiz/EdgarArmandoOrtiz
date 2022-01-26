@@ -12,7 +12,9 @@ HABILIDADES: C++ / JAVA / JS / HTML / CSS /JAVASCRIPT /PHP
 - 🌱 Sigo aprendiendo desarrollo web tanto back-end como from-end, typescript, javascript
 
 ![GitHub metrics](https://metrics.lecoq.io/EdgarArmandoOrtiz) 
+
 &nbsp;&nbsp;Contactame
+
 - Email: edgar.007.armando@gmail.com
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 (https://github.com/EdgarArmandoOrtiz)  
