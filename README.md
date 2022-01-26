@@ -1,4 +1,3 @@
-### Hi there 👋, Mi nombre es Edgar Armando Ortiz Jimenez
 ### Hola a todos 👋, Mi nombre es Edgar Armando Ortiz Jimenez
 ##
 Alumno de Computación de la UNIVERSIDAD AUTONOMA BENITO JUAREZ DE OAXACA
